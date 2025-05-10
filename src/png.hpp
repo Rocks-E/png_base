@@ -1,5 +1,4 @@
-#ifndef PNG_HPP
-#define PNG_HPP
+#pragma once
 
 #ifdef _DEBUG
 #include <iostream>
@@ -147,5 +146,3 @@ struct png_text {
 	
 	
 };
-
-#endif
